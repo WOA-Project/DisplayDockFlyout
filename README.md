@@ -10,7 +10,7 @@
 
  ![Flyout connected](./Assets/ConnectedFlyout.png)
 
- ![Flyout disconnected](./Assets/ConnectedFlyout.png)
+ ![Flyout disconnected](./Assets/DisconnectedFlyout.png)
 
  ![Flyout connected notification](./Assets/ConnectedNotification.png)
 
