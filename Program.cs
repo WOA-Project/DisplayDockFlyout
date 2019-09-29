@@ -61,7 +61,7 @@ namespace DisplayDockFlyout
 
         private static void Msdock_DockDeviceDisconnected(object sender, EventArgs e)
         {
-            notifyIcon.ShowBalloonTip(3000, "Display dock disconnected", "A display dock has been disconnected.", ToolTipIcon.None);
+            notifyIcon.ShowBalloonTip(3000, "Display dock", "A display dock has been disconnected.", ToolTipIcon.None);
         }
 
         private static void OpenApp(object sender, EventArgs e)
