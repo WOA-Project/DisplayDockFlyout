@@ -8,13 +8,13 @@
 
  ## Screenshot
 
- ![Flyout connected](./Assets/ConnectedFlyout.png)
+ ![Flyout connected](./DisplayDockFlyout/Assets/ConnectedFlyout.png)
 
- ![Flyout disconnected](./Assets/DisconnectedFlyout.png)
+ ![Flyout disconnected](./DisplayDockFlyout/Assets/DisconnectedFlyout.png)
 
- ![Flyout connected notification](./Assets/ConnectedNotification.png)
+ ![Flyout connected notification](./DisplayDockFlyout/Assets/ConnectedNotification.png)
 
- ![Flyout disconnected notification](./Assets/DisconnectedNotification.png)
+ ![Flyout disconnected notification](./DisplayDockFlyout/Assets/DisconnectedNotification.png)
 
  # Acknowledgements
 
